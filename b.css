@@ -180,3 +180,80 @@ table.bn tfoot td {
   border-radius: 5px;
 
 }
+table.n {
+
+  border: 4px solid #555555;
+
+  background-color: #552F39;
+
+  width: 400px;
+
+  text-align: center;
+
+  border-collapse: collapse;
+
+}
+
+table.n td, table.n th {
+
+  border: 1px solid #E63692;
+
+  padding: 5px 10px;
+
+}
+
+table.n tbody td {
+
+  font-size: 12px;
+
+  font-weight: bold;
+
+  color: #FFFFFF;
+
+}
+
+table.n tr:nth-child(even) {
+
+  background: #390000;
+
+}
+
+table.n thead {
+
+  background: #01010A;
+
+  border-bottom: 10px solid #BB4869;
+
+}
+
+table.n thead th {
+
+  font-size: 20px;
+
+  font-weight: bold;
+
+  color: #AAFF1F;
+
+  text-align: center;
+
+  border-left: 2px solid #E82F45;
+
+}
+
+table.n thead th:first-child {
+
+  border-left: none;
+
+}
+
+table.n tfoot td {
+
+  font-size: 13px;
+
+}
+
+table.n tfoot .links {
+
+  text-align: right;
+
+}
