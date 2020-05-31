@@ -186,8 +186,10 @@ table.n {
 
   background-color: #552F39;
 
-  width: 400px;
-
+  width: 100%;
+  
+  height: 200px;
+  
   text-align: center;
 
   border-collapse: collapse;
